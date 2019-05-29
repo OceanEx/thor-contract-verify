@@ -49,7 +49,7 @@
   "license": "GNU v3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/txsdev/vechain-contract-verify"
+    "url": "https://github.com/OceanEx/thor-contract-verify"
   },
   "keywords": [
     "thor",
@@ -59,7 +59,7 @@
     "contract"
   ],
   "bugs": {
-    "url": "https://github.com/txsdev/vechain-contract-verify/issues"
+    "url": "https://github.com/OceanEx/thor-contract-verify/issues"
   },
-  "homepage": "https://github.com/txsdev/vechain-contract-verify"
+  "homepage": "https://github.com/OceanEx/thor-contract-verify"
 }
