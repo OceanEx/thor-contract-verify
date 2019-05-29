@@ -1,0 +1,12 @@
+.vscode/
+src/
+test/
+*.tgz
+tsconfig.json
+tslint.json
+index.html
+.nojekyll
+coverage
+.nyc_output
+.travis.yml
+tech-stack.png
