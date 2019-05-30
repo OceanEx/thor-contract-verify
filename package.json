@@ -1,6 +1,6 @@
 {
   "name": "vscc",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Verify the consistency between the source code of a smart contract and its online 'runtimeCode'.",
   "author": "lele.tian@bitocean.org",
   "main": "dist/index.js",
