@@ -33,7 +33,7 @@
     "check-coverage": true
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "solc": "^0.5.8"
   },
   "devDependencies": {
